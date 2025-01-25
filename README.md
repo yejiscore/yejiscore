@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- 스탯 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiscore&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiscore)](https://github.com/yejiscore/github-readme-stats)
 
